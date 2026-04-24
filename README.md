@@ -43,6 +43,4 @@ I'm a software developer and aspiring Quantitative Analyst with a deep interest 
 ### 🛠️ DevOps, Tools & AI Integration
 * **Version Control & CI/CD:** Git, GitHub, and automated deployment workflows (GitHub Actions).
 
-## ⚡ Beyond the Code
-* 🏸 When I step away from the keyboard, I'm usually playing badminton or gaming.
-* 🌌 Currently taking a detour through the stars and skies with courses in Astronomy and Meteorology.
+
